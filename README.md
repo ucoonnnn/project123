@@ -13,6 +13,8 @@ Project Goals:
 (5)Building a Responsive and User-Friendly Interface
 (6)Improve Basic Understanding of Web Development
 
+
+Task Assignment
 Created the HTML structure for the application page, including input forms for height and weight and an area to display BMI results.
 Wrote the BMI calculation logic using JavaScript.
 Manage Git and GitHub repositories.
