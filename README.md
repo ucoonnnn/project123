@@ -1,7 +1,7 @@
-YUSRAN RASENDRIYA ( )
-MUHAMMAD FAUZAN (001202300180)
-LUCKY DANI SAPUTRA (001202300185)
-FETRIK COLA P.V.Sitepu ( 001202300173)
+Yusran Rasendriya (001202300193)
+Muhammad Fauzan (001202300180)
+Lucky Dani Saputra (001202300185)
+Fetrik Cola P.V.Sitepu (001202300173)
 
 This project is BMI Calculator, a simple web application that allows users to calculate Body Mass Index (BMI) based on height (cm) and weight (kg) inputs. The application is built using HTML for page structure, CSS for styling, and JavaScript for calculation logic.
 
